@@ -142,7 +142,6 @@ const octokit = new Octokit({
   baseUrl: "https://github.acme-inc.com/api/v3",
 });
 ```
-
 </td></tr>
     <tr>
       <th>
