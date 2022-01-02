@@ -168,7 +168,6 @@ octokit.request("POST /repos/{owner}/{repo}/pulls", {
   draft: true,
 });
 ```
-
 You can also set previews globally, by setting the `options.previews` option on the constructor. Example:
 
 ```js
