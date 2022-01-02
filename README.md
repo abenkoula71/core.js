@@ -51,7 +51,6 @@ Install with <code>npm install @octokit/core</code>
 const { Octokit } = require("@octokit/core");
 // or: import { Octokit } from "@octokit/core";
 ```
-
 </td></tr>
 </tbody>
 </table>
